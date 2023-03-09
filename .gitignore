@@ -1,0 +1,4 @@
+# Project exclude paths
+/lqs-admin/target/
+/lqs-blog/target/
+/lqs-framework/target/
